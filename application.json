@@ -3,6 +3,10 @@
     {
       "id": "test",
       "isDefault": true
+    },
+    {
+      "id": "Sheet1",
+      "isDefault": false
     }
   ],
   "viewMode": false,
